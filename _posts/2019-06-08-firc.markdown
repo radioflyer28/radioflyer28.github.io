@@ -1,0 +1,93 @@
+---
+layout: post
+title:  "Notes for Flight Instructor Refresher Course (FIRC)"
+date:   2019-06-08 17:00:00 -0400
+---
+
+## Ch 1
+
+### Quiz
+```
+FIRC440	
+Performance-based objectives
+A. emphasize scenarios and ADM.
+B. identify the highest level of learning.
+C. are clear and measurable written descriptions of skill and behavior, conditions, and criteria.
+
+FIRC445	
+With regards to Safety Culture, which one of the following is 'key'?
+A. memorizing checklists and cockpit flows.
+B. following directions received from instructors.
+C. changing the student's very mindset.
+
+FIRC438	
+Which is an example of a decision-based objective?
+A. Maintaining a constant rate of 500 feet per minute in a climb.
+B. Navigating a Departure Procedure within 3/4 scale CDI deflection.
+C. Properly responding to a simulated navigation system failure.
+
+FIRC441	
+In order to be effective, scenario-based training includes a purpose, objective, and various
+A. hazards and consequences of actions taken if the flight is not completed as planned.
+B. maneuvers that will be continuously practiced until flight tests standards are met.
+C. standards that reflect the student's previous training.
+
+FIRC439	
+Flight instructors should continually evaluate themselves by using the resources available through the FAASTeam, the Aviator's Model Code of Conduct, and the Aviation Instructor's Handbook in order to
+A. receive credit that can be applied to a required flight review.
+B. meet instructor renewal requirements.
+C. increase their productivity and safety.
+```
+
+### Lesson Plan Resources
+
+FAA.gov and FAASafety.gov are just two of the many sites that provide current, up to date publications to review and print. A partial list of common resources follows:
+
+- AC 00-45H Aviation Weather Services
+- https://www.faa.gov/documentLibrary/media/Advisory_Circular/AC_00-45H.pdf    
+- Advisory Circulars - Checklist
+- http://www.faa.gov/regulations_policies/advisory_circulars/
+- AC 60-22 - Aeronautical Decision Making
+- http://www.faa.gov/regulations_policies/advisory_circulars/index.cfm/go/document.information/documentID/22624
+- Air Safety Foundation
+- http://www.aopa.org/asf/
+- Aviation Safety Reporting Program (FAA) Advisory Circular 
+- http://www.faa.gov/regulations_policies/advisory_circulars/index.cfm/go/document.information/documentID/1019713
+- Aviation Safety Reporting System (ASRS) - NASA forms 
+- http://asrs.arc.nasa.gov/
+- Endorsements (FAA) AC 61-65 
+- https://www.faa.gov/documentLibrary/media/Advisory_Circular/AC_61-65G.pdf    
+- FITS - FAA/Industry Training Standards – FAA/Industry Training Standards program
+- http://www.faa.gov/training_testing/training/fits/
+- Flight Review Guidance (FAA)
+- http://www.faa.gov/pilots/training/media/flight_review.pdf
+- Airplane Flying Handbook 
+- https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/airplane_handbook/media/airplane_flying_handbook.pdf    
+- Aviation Instructor's Handbook (FAA-H-8083-9A)
+- https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/aviation_instructors_handbook/media/FAA-H-8083-9A.pdf    
+- Human Factors Awareness
+- https://www.faa.gov/regulations_policies/handbooks_manuals/aircraft/media/amt_handbook_addendum_human_factors.pdf    
+- Instrument Procedures Handbook - FAA-H-8261-A
+- http://www.faa.gov/regulations_policies/handbooks_manuals/aviation/instrument_procedures_handbook/
+- Instrument Flying Handbook
+- http://www.faa.gov/regulations_policies/handbooks_manuals/aviation/media/FAA-H-8083-15B.pdf and 
+- Aeronav Digital Terminal Procedures Publication 
+- http://www.faa.gov/air_traffic/flight_info/aeronav/digital_products/dtpp/
+- FAA Aeronautical Navigation Products (Aeronav)
+- http://www.faa.gov/air%5Ftraffic/flight%5Finfo/aeronav/
+- Personal Minimums Checklist (PAVE) 
+- http://www.faa.gov/training_testing/training/fits/guidance/media/personal%20minimums%20checklist.pdf
+- Pilot's Handbook of Aeronautical Knowledge
+- https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/phak/media/pilot_handbook.pdf    
+- Risk Management Brouchers
+- https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/pilot_risk/    
+- Practical Test Standards
+- https://www.faa.gov/training_testing/testing/test_standards/    
+- Airman Certification Standards
+- https://www.faa.gov/training_testing/testing/acs/    
+- Security - TSA Information for General Aviation Airports and Users
+- https://www.tsa.gov/sites/default/files/2017_ga_security_guidelines.pdf    
+- Stall & Spin Awareness (FAA Advisory Circular) 
+- https://www.faa.gov/documentLibrary/media/Advisory_Circular/AC_61-67C_Chg_2.pdf    
+- Weather Decision-Making Guide
+- https://www.faa.gov/training_testing/training/fits/guidance/media/pers%20wx%20risk%20assessment%20guide-v1.0.pdf  
