@@ -4,6 +4,10 @@ title: About
 permalink: /about/
 ---
 
+## Author Notes
+Testing Jekyll to use as a personal site and document projects.
+
+## Design Credits
 This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
 
 You can find the source code for Minima at GitHub:
