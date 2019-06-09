@@ -91,3 +91,137 @@ FAA.gov and FAASafety.gov are just two of the many sites that provide current, u
 - https://www.faa.gov/documentLibrary/media/Advisory_Circular/AC_61-67C_Chg_2.pdf    
 - Weather Decision-Making Guide
 - https://www.faa.gov/training_testing/training/fits/guidance/media/pers%20wx%20risk%20assessment%20guide-v1.0.pdf  
+
+## Ch2
+
+### Quiz
+```
+FIRC457	
+In order to provide students with a clear understanding of the training standards, instructors must
+A. stress common errors of previous students.
+B. describe the specific knowledge and skill goals.
+C. identify the wrong way before you describe the right way.
+
+FIRC448	
+A solid flight training curriculum will go a long way in developing safe practices in your student, but will fail if you
+A. incorporate decision-making in each lesson.  
+B. don't lead by example and give your students support and encouragement.
+C. challenge your student with different scenarios.
+ 	
+FIRC456	
+A student's desire to emulate their flight instructor, whether consciously or subconsciously, provides the greatest opportunity for a flight instructor to instill
+A. a behavior of achieving the flight objective as the primary goal.
+B. a culture of safety by only providing verbal examples of safety.
+C. a culture of safety through the practice of teaching safety by example.
+
+FIRC455	
+Which are some of the areas outline in the Aviator's Model Code of Conduct (AMCC)?
+A. How to properly conduct a Instrument Proficiency Check or Flight Review.
+B. Use of 'flow checklist'; Creating easy to remember catch phrases.
+C. Training and Proficiency, Security, Environmental Issues, and Use of Technology Advancement.
+
+FIRC451	
+In order to transfer knowledge or skill to a student, an effective instructor must
+A. use their technical knowledge alone.
+B. possess a strong motivation to teach, as well as a positive attitude towards learning.
+C. spend more time demonstrating a task or maneuver and minimal time explaining the technical elements involved.
+```
+
+## Ch3 - Flight Reviews
+
+**Sample Flight Review Checklist**  
+AC-61-98D - Appendix E  
+<https://www.faa.gov/documentLibrary/media/Advisory_Circular/AC_61-98D.pdf#%5B%7B%22num%22%3A108%2C%22gen%22%3A0%7D%2C%7B%22name%22%3A%22XYZ%22%7D%2C70%2C720%2C0%5D>
+
+**Sample Manuever Checklist**  
+AC-61-98D - Appendix D  
+<https://www.faa.gov/documentLibrary/media/Advisory_Circular/AC_61-98D.pdf#%5B%7B%22num%22%3A108%2C%22gen%22%3A0%7D%2C%7B%22name%22%3A%22XYZ%22%7D%2C70%2C720%2C0%5D>
+
+**Recommended List of Minimum Manuevers**  
+
+- Takeoffs
+- Stabilized approaches to landing
+- Slow flight
+- Stall recognition, stalls, and stall recovery
+- Spin recognition and avoidance
+- Recovery from unusual attitudes
+- Operating the aircraft solely by reference to instruments (conducted in either actual or simulated IMC)
+
+Advisory Circular (AC) 61-98, Currency Requirements and Guidance for the Flight Review and Instrument Proficiency Check, makes the important connection between the lack of proficiency and LOC.
+“Studies have shown that LOC usually occurs when pilots lack proficiency. Conditions exceeding personal skill limitations can present themselves at any time. In this event, the pilot should be able to exercise skills at a proficiency level he or she may not have maintained or attained since initial training.” (Page 5, Para 2-1.b)
+
+You can actively seek to reduce LOC incidents by making LOC prevention a central theme in your flight reviews. During the flight review, point out the five areas of interest outlined in the AC and monitor the pilot's proficiency in each of those areas. Here is a list of the five critical areas impacting GA safety as outlined in AC 61-98:
+
+1. Loss of Control. Pilots must know how to avoid potential LOC situations. If one such situation is encountered, they must be able to recognize it and know how to recover from it.
+2. Pilot Proficiency. LOC occurs most in pilots who are not proficient. Work out a personal currency program or provide a system for proficiency retention for each pilot you review. By focusing on the individual's proficiency needs, you will likely find it necessary to exceed the minimum currency requirements. That is okay! The General Aviation Joint Steering Committee (GAJSC) recommends taking such an approach to ensure each pilot receives the highest level of attention and instruction.
+3. Traffic Pattern Operations. Focus your students on the three areas of LOC risk in the traffic pattern: (1) the potential for a departure stall, (2) the danger in an attempt to return to the field following an engine failure on take off, and (3) the risk of LOC in the base turn to final.
+4. Criteria for Stabilized Approaches. Review the criteria for a stabilized approach and monitor approach parameters in flight. Provide instruction as required to help pilots improve their instrument crosscheck and workload management.
+5. Instrument Meteorological Conditions (IMC). Flight into IMC can be disorienting, especially to those not appropriately rated or proficient to do so. Spatial disorientation in IMC often leads to LOC. Proper prioritization of pilot workload is required to ensure the pilot does not become distracted or lose situational awareness. Emphasize good Crew Resource Management (CRM) or Single-Pilot Resource Management (SRM), as discussed in Lesson 1 of this course, to the pilots for whom you are performing the flight review or IPC. Remind pilots that just because they can fly into IMC does not mean they should. Proficiency must always be considered before placing oneself in a situation that can potentially induce spatial disorientation and subsequent LOC.
+
+### Quiz
+```
+FIRC465	
+The feeling of pressure to perform a minimum time flight review can be avoided by
+A. creating a plan of action for all clients that does not exceed the minimum time.
+B. managing the expectations of inactive pilots that may need additional training.
+C. Both A and B.
+
+FIRC458	
+The goal of a Flight Review is not only to meet regulatory currency requirements, but also:
+A. Return the pilot to 'check-ride' proficiency.
+B. Bring the pilot's proficiency up to a Private Pilot level.
+C. Help the pilot develop a personal currency program and reduce accidents such as Loss of Control.
+
+FIRC463	
+Why should an instructor encourage a pilot to get an IPC while conducting a Flight Review.
+A. It's good for business.
+B. The IPC and Flight Review's should not be viewed as a one time event but part of a pilot's personal proficiency program.
+C. A flight review should only focus on visual maneuvers.
+
+FIRC460	
+In preparation for the flight review, CFIs should develop a plan of action that includes
+A. stall and spin awareness training.
+B. maneuvers and procedures to be performed, a sequence of events, and the locations to be used during the review.
+C. a minimum of weight and balance information and the maneuvers to be performed.
+
+FIRC462	
+In addition to a regular evaluation of piloting skills and aeronautical knowledge, pilots can use flight reviews to
+A. develop basic maneuver skills.
+B. earn an Instrument Rating.
+C. develop personal currency and proficiency programs with the assistance of a CFI.
+```
+
+## Ch4 - Pilots Deviations (PD)
+
+### Quiz
+```
+FIRC469	
+Thorough planning for taxi operations is essential for safe ground operations. Pilots should plan for the airport surface movement portion of the flight just as they plan for the other phases of flight, by
+A. listening to the current ATIS and reviewing the airport diagram.
+B. using previous experiences at the airport as a primary source of information.
+C. using airport information contained in the Airplane Flight Manual supplement.
+
+FIRC472	
+An instructor should report deteriorating or confusing surface markings or signage to
+A. Flight Standards District Office.
+B. Flight Service Station.
+C. Air Traffic Control Tower or by using the NASA Aviation Safety Reporting System or FAA Safety Hotline.
+
+FIRC471	
+To avoid runway incursions, flight instructors should highlight distractions that could preoccupy a pilot. These distractions include:
+A. performing a checklist, programming a GPS while taxing, and allowing passengers to distract pilots with miscellaneous conversation.
+B. looking at an interesting aircraft rather than paying attention to what is happening around you, and picking up items that may have fallen on the floor.
+C. both A and B.
+
+FIRC475	
+Besides Chart Supplements, what other source should pilots be taught to use for airport familiarity:
+A. Aviation News Sources
+B. Local Pilot Associations and Organizations.
+C. NOTAMs
+
+FIRC476	
+Which of the following should be taught to a pilot about LAHSO?
+A. LAHSO' s are mandatory.
+B. Student pilots should participate in LAHSO if endorsed properly.
+C. If the clearance is accepted, then a LAHSO must be adhered to unless the pilot receives an amended clearance.
+```
