@@ -225,3 +225,36 @@ A. LAHSO' s are mandatory.
 B. Student pilots should participate in LAHSO if endorsed properly.
 C. If the clearance is accepted, then a LAHSO must be adhered to unless the pilot receives an amended clearance.
 ```
+
+## Ch5 - Regulatory Review
+```
+FIRC486 
+The best source for current versions of Federal Aviation Regulations is
+A. www.eCFR.gov (Electronic Code of Federal Regulations).
+B. Aviation Digital Data Service.
+C. National Clearing House.
+
+FIRC481  
+Airman Certification Standards (ACS) improve the training standards used by instructors by
+A. Combining test subject codes, Knowledge Test Standards, and special emphasis areas into one convenient location.
+B. Providing answers and explanations to questions.
+C. Descriptions of techniques and methods on how maneuvers should be flown.
+
+FIRC482   
+The most current regulations can be looked up and reviewed at the
+A. most recent edition of the FAR/AIM.
+B. Electronic Code of Federal Regulations on the GPO Access website.
+C. The Pilot's Handbook of Aeronautical Knowledge.
+
+FIRC480    
+The Airman Certification Standards were created by:
+A. the FAA.
+B. the Aviation Rulemaking Advisory Committee, which included industry experts and respresentatives from the GA community.
+C. the NTSB.
+
+FIRC479 
+The new Airman Cerification Standards can best be described as
+A. stresses the practical without the academic aspect.
+B. focuses on the stick and rudder skills associated with maneuvers instead of areas already evaluted in knowledge tests.
+C. fuses the functional aspects of the PTS with the necessary preparatory knowledge for the oral and written tests.
+```
