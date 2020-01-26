@@ -258,3 +258,156 @@ A. stresses the practical without the academic aspect.
 B. focuses on the stick and rudder skills associated with maneuvers instead of areas already evaluted in knowledge tests.
 C. fuses the functional aspects of the PTS with the necessary preparatory knowledge for the oral and written tests.
 ```
+
+## Ch6 - ?
+
+
+## Ch7 - Stall/Spin
+```
+FIRC501 
+Students should know that, to prevent a spin, a pilot needs to avoid
+A. instability associated with the center of gravity location.
+B. an aggravated stall in either a slip or a skid.
+C. rotation about the longitudinal axis.
+
+FIRC500  
+When providing instruction on stalls, instructors must be aware of the possibility of secondary stalls occurring as a result of
+A. students attempting to recover prior to the aircraft regaining sufficient flying speed.
+B. too much "nose down" trim being used to maintain altitude during the setup for the stall.
+C. an uncoordinated entry into the power-on stall.
+
+FIRC502   
+What can instructor do to maximize their lesson about stalls and spin awareness?
+A. Let the student perform various stalls.
+B. After practicing various stalls, simulate scenarios that inadvertently lead to stalls by creating distractions.
+C. Practice only "power-on" and "power- off" stalls.
+
+FIRC506    
+What was the cause for such a high rate of accidents in takeoff and climbs?
+A. Excessive winds
+B. loss of aircraft control.
+C. Engine malfunction
+
+FIRC507 
+What method is best for teaching spin awareness?
+A. Practicing stalls that result in the incipient phase of spins
+B. In depth discussion about stalls on the ground
+C. Developing a series of scenarios that would likely result in a spin if proper action is not taken.
+```
+
+## Ch8 - Teaching Takeoffs
+```
+FIRC512 
+In order to reduce instances of Loss of Control (LOC) incidents during takeoffs and landings, instructors should
+A. teach their students to build safe habit patterns and strong ADM skills under a wide range of conditions.
+B. limit the training to the information contained in the normal procedure section of the pilot operations handbook
+C. talk about the maneuver; let the student perform the maneuver; evaluate the maneuver.
+
+   Enter your answer here:  
+   FIRC508  
+   Instructors must remain vigilant for errors associated with a student's failure to adjust to changing flight parameters.  What common error/s should be anticipated if wind conditions are not considered in the student's ADM process?
+
+   1.  Improper application of crosswind controls.
+
+   2.  Descent angle too shallow or too steep.
+
+   3.  Improper elevator trim selection. 
+   A. 1 and 2
+   B. 1, 2, and 3
+   C. 2 and 3
+
+      Enter your answer here:   
+      FIRC516   
+      What is the first step when doing a power-off approach?
+      A. Perform the emergency checklist.
+      B. Establish the best glide speed.
+      C. Contact the tower.
+
+         Enter your answer here:    
+         FIRC510    
+         Students may want to incorporate a safety margin to takeoff and landing performance charts because these charts rarely include other variables such as runway slope and
+         A. temperature.
+         B. pressure altitude.
+         C. humidity.
+
+            Enter your answer here:     
+            FIRC513 
+            According the Nall Report; out of all the landing incidents what accounted for almost half of the incidents?
+            A. Flaring too high
+            B. Flaring too late
+            C. Loss of directional control
+```
+
+## Ch9
+
+```
+FIRC520
+Where can instructors find resources and programs that will assist them when training pilots in Technically Advanced Aircraft?
+A. Commercial Pilot Practical Test Standards or ACS.
+B. Commercial Pilot Flight Proficiency Requirements (14CFR61.127).
+C. FAA Safety Team (FAASTeam).
+
+FIRC519	
+One of the greatest potential advantages Technically Advanced Airplanes offer is that it
+A. reduces the need for cockpit management.
+B. relieves the pilot of their pilot-in-command responsibilities.
+C. enhances positional awareness.
+
+FIRC518	
+Despite the fact that modern technology brings a vast amount of information to the pilot, lack of situational awareness is one of the most commonly cited causes for incidents involving pilots
+A. of all certificate and experience levels.
+B. only at the Student Pilot level due to reliance on more conventional navigation systems.
+C. that use both conventional navigation systems and techniques as well as GPS.
+
+FIRC522	
+When teaching students Technically Advanced Aircraft (TAA) systems, it is important
+A. not to encourage the use of technically advanced systems installed in the aircraft.
+B. to use some type of flight simulation training device early in the curriculum.
+C. to teach methods and techniques that were used with older systems.
+
+FIRC521	
+What hazardous attitude could account for the high number of TAA weather accidents?
+A. a macho attitude when flying a technically advanced airplane.
+B. resignation because pilots may feel intimidated by the advanced equipment.
+C. invulnerability because pilots may have believed that access to near real-time weather improved their chances of dealing with adverse weather.
+```
+
+## Ch10
+```
+FIRC530	
+How can an instructor realistically simulate failed flight instruments?
+A. Cover up the instrument.
+B. Use of a simulation device and actually fail the instrument
+C. Ask the student to look away and pretend the instrument is not working
+
+FIRC532	
+It should be remembered that while instrument departure procedures (DPs) do provide obstacle clearance, their main purpose is to provide
+A. efficient routing to maximize aircraft capacity and minimize communication.
+B. a reduction in time spent flight planning for the pilot in command.
+C. greater separation between departing traffic in both VMC and IMC weather.
+
+FIRC536	
+By utilizing Integrated Flight Instruction, what can instructors do to help a student solidify early instrument flight training?
+A. By teaching students to always keep their eyes focused outside of the airplane when performing maneuvers.
+B. By teaching students to perform flight maneuvers both by outside visual references and by reference to flight instruments from the first time each maneuver is introduced.
+C. By teaching students to focus all of their attention on the flight instruments from the first time each maneuver is introduced.
+
+FIRC533	
+Since reducing Loss of Control is the goal, which of the following will best achieve this?
+A. Take the time to teach pilots at all experience levels the necessary flying skills that will keep them safe in IMC.
+B. Only teach in VMC conditions with a view limiting device.
+C. Always file an IFR flight plan to help with their ATC communications
+
+FIRC537	
+When controlling the aircraft solely by refenence to instruments, the keys for preventing Loss of Control associated with the failure of a flight instrument is
+
+1.  Early recognition of the failure.
+
+2.  recognition that the aircraft performance does not agree with the flight instruments.
+
+3.  practice the transition to a scan pattern that does not include the failed instrument.
+A. 3 only
+B. 1, 2, and 3
+C. 2 only
+```
+
